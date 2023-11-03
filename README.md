@@ -6,6 +6,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/dkarasevgthub/dkarasevgthub/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h2 align="left">About me</h2>
 
 ###
