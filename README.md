@@ -6,10 +6,6 @@
 
 ###
 
-![Snake animation](https://github.com/dkarasevgthub/dkarasevgthub/blob/output/github-contribution-grid-snake.svg)
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
