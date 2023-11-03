@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dkarasevgthub/dkarasevgthub/output/main.svg" alt="Snake animation" />
+![Snake animation](https://github.com/dkarasevgthub/dkarasevgthub/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
