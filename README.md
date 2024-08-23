@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2k19<br>📚 I'm currently learning waiting for offer<br>🎯 Goals: Become the coder on the planet<br>🎲 Fun fact: I'm just studying, so I'll be glad if you invite me for an internship</p>
+<p align="left">✨ Creating bugs since 2k19<br>📚 I'm currently learning & waiting for offer<br>🎯 Goals: Become the coder on the planet<br>🎲 Fun fact: I'm just studying, so I'll be glad if you invite me for an internship</p>
 
 ###
 
