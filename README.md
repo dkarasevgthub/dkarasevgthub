@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🙋‍♂️ My name is Dmitriy<br><br>#️⃣ I’m 20 y.o.<br><br>💼 Student<br><br>✉️ tg: @wannadiebtw</p>
+<p align="left">🙋‍♂️ My name is Dmitriy<br><br>#️⃣ I’m 20 y.o.<br><br>💼 Student<br><br>✉️ tg: @no0neCares</p>
 
 ###
 
